@@ -17,9 +17,9 @@ the form and appearance are your purview.
 
 ## Getting Started
 
-To download, click on [tags](/tags)
+To download, click on [tags](tags)
 and grab the latest zip e.g.
-[0.1.7](/archive/0.1.7.zip).
+[0.1.7](archive/0.1.7.zip).
 For your first run, we recommend turning on debugging and watching the
 F12 console in your browser. (You can turn it off again when you're 
 ready to deploy your work.)
